@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marway.lv" resolutions="1x,2x" timestamp="1725560329650">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="marway.lv" resolutions="1x,2x" timestamp="1725560954910">
   <folder name="css">
     <file name="site_global.css" crc="125038031"/>
     <file name="master_master-de.css" crc="3770483164" ref="tische-und-stuhle:mobel-fur-das-wohnzimmer:produzieren:nachttisch-kommoden:mobelteile-und-komponenten:saunen-und-ihre-produkte:turen-und-andere-artikel:sarge:gartenmobel:uber-uns:dienstleistungen-und-kontakte:kindermobel"/>
@@ -15,8 +15,8 @@
     <file name="nomq_production.css" crc="366444100" ref="production"/>
     <file name="mobel-fur-das-wohnzimmer.css" crc="3835757658" ref="mobel-fur-das-wohnzimmer"/>
     <file name="nomq_mobel-fur-das-wohnzimmer.css" crc="387742566" ref="mobel-fur-das-wohnzimmer"/>
-    <file name="galdi-un-kresli.css" crc="515467815" ref="galdi-un-kresli"/>
-    <file name="nomq_galdi-un-kresli.css" crc="46642796" ref="galdi-un-kresli"/>
+    <file name="galdi-un-kresli.css" crc="3782787211" ref="galdi-un-kresli"/>
+    <file name="nomq_galdi-un-kresli.css" crc="504115720" ref="galdi-un-kresli"/>
     <file name="produzieren.css" crc="4118016062" ref="produzieren"/>
     <file name="nomq_produzieren.css" crc="4085128923" ref="produzieren"/>
     <file name="nachttisch-kommoden.css" crc="3782529868" ref="nachttisch-kommoden"/>
@@ -119,150 +119,150 @@
     <file name="marway_logo-01.png" crc="422901969" seo="true" ref="index:produkcija:pakalpojumi-un-kontakti:bernu-mebeles:galdi-un-kresli:dzivojamas-istabas-mebeles:gultas-kumodes:mebelu-detalas-un-komponenti:saunas-un-saunas-izstradajumi:durvis-un-citi-galdniecibas-izstradajumi:zarki:darza-mebeles:about-us:uber-uns:dienstleistungen-und-kontakte:services-and-contacts:production:produzieren:childrens-furniture:tables-and-chairs:living-room-furniture:beds-commodes:furniture-components:saunas-and-its-products:doors-and-other-products:coffins:garden-furniture:kindermobel:tische-und-stuhle:mobel-fur-das-wohnzimmer:nachttisch-kommoden:mobelteile-und-komponenten:saunen-und-ihre-produkte:turen-und-andere-artikel:sarge:gartenmobel">
       <caption webpage="zarki" alt=""/>
       <caption webpage="zarki" alt=""/>
-      <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="darza-mebeles" alt=""/>
-      <caption webpage="darza-mebeles" alt=""/>
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
-      <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
-      <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
-      <caption webpage="doors-and-other-products" alt=""/>
-      <caption webpage="doors-and-other-products" alt=""/>
-      <caption webpage="sarge" alt=""/>
-      <caption webpage="sarge" alt=""/>
-      <caption webpage="produkcija" alt=""/>
-      <caption webpage="produkcija" alt=""/>
-      <caption webpage="living-room-furniture" alt=""/>
-      <caption webpage="living-room-furniture" alt=""/>
-      <caption webpage="mobelteile-und-komponenten" alt=""/>
-      <caption webpage="mobelteile-und-komponenten" alt=""/>
-      <caption webpage="beds-commodes" alt=""/>
-      <caption webpage="beds-commodes" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
-      <caption webpage="produzieren" alt=""/>
-      <caption webpage="produzieren" alt=""/>
-      <caption webpage="uber-uns" alt=""/>
-      <caption webpage="uber-uns" alt=""/>
-      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
-      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
-      <caption webpage="tische-und-stuhle" alt=""/>
-      <caption webpage="tische-und-stuhle" alt=""/>
-      <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
-      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="dienstleistungen-und-kontakte" alt=""/>
       <caption webpage="dienstleistungen-und-kontakte" alt=""/>
-      <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
-      <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="coffins" alt=""/>
       <caption webpage="coffins" alt=""/>
-      <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
-      <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
+      <caption webpage="doors-and-other-products" alt=""/>
+      <caption webpage="doors-and-other-products" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
       <caption webpage="kindermobel" alt=""/>
       <caption webpage="kindermobel" alt=""/>
-      <caption webpage="production" alt=""/>
-      <caption webpage="production" alt=""/>
+      <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
+      <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
+      <caption webpage="garden-furniture" alt=""/>
+      <caption webpage="garden-furniture" alt=""/>
+      <caption webpage="turen-und-andere-artikel" alt=""/>
+      <caption webpage="turen-und-andere-artikel" alt=""/>
+      <caption webpage="living-room-furniture" alt=""/>
+      <caption webpage="living-room-furniture" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
+      <caption webpage="mobelteile-und-komponenten" alt=""/>
+      <caption webpage="mobelteile-und-komponenten" alt=""/>
+      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
+      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
+      <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
+      <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
+      <caption webpage="produzieren" alt=""/>
+      <caption webpage="produzieren" alt=""/>
       <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="pakalpojumi-un-kontakti" alt=""/>
       <caption webpage="pakalpojumi-un-kontakti" alt=""/>
-      <caption webpage="turen-und-andere-artikel" alt=""/>
-      <caption webpage="turen-und-andere-artikel" alt=""/>
-      <caption webpage="services-and-contacts" alt=""/>
-      <caption webpage="services-and-contacts" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
-      <caption webpage="childrens-furniture" alt=""/>
-      <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="beds-commodes" alt=""/>
       <caption webpage="bernu-mebeles" alt=""/>
       <caption webpage="bernu-mebeles" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
+      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
+      <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
+      <caption webpage="production" alt=""/>
+      <caption webpage="production" alt=""/>
+      <caption webpage="galdi-un-kresli" alt=""/>
+      <caption webpage="galdi-un-kresli" alt=""/>
+      <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="produkcija" alt=""/>
+      <caption webpage="produkcija" alt=""/>
+      <caption webpage="sarge" alt=""/>
+      <caption webpage="sarge" alt=""/>
+      <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="furniture-components" alt=""/>
       <caption webpage="furniture-components" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="services-and-contacts" alt=""/>
+      <caption webpage="services-and-contacts" alt=""/>
+      <caption webpage="uber-uns" alt=""/>
+      <caption webpage="uber-uns" alt=""/>
     </file>
     <file name="marway_logo-01_2x.png" crc="3886303698" seo="true" ref="index:produkcija:pakalpojumi-un-kontakti:bernu-mebeles:galdi-un-kresli:dzivojamas-istabas-mebeles:gultas-kumodes:mebelu-detalas-un-komponenti:saunas-un-saunas-izstradajumi:durvis-un-citi-galdniecibas-izstradajumi:zarki:darza-mebeles:about-us:uber-uns:dienstleistungen-und-kontakte:services-and-contacts:production:produzieren:childrens-furniture:tables-and-chairs:living-room-furniture:beds-commodes:furniture-components:saunas-and-its-products:doors-and-other-products:coffins:garden-furniture:kindermobel:tische-und-stuhle:mobel-fur-das-wohnzimmer:nachttisch-kommoden:mobelteile-und-komponenten:saunen-und-ihre-produkte:turen-und-andere-artikel:sarge:gartenmobel">
       <caption webpage="zarki" alt=""/>
       <caption webpage="zarki" alt=""/>
-      <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="darza-mebeles" alt=""/>
-      <caption webpage="darza-mebeles" alt=""/>
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
-      <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
-      <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
-      <caption webpage="doors-and-other-products" alt=""/>
-      <caption webpage="doors-and-other-products" alt=""/>
-      <caption webpage="sarge" alt=""/>
-      <caption webpage="sarge" alt=""/>
-      <caption webpage="produkcija" alt=""/>
-      <caption webpage="produkcija" alt=""/>
-      <caption webpage="living-room-furniture" alt=""/>
-      <caption webpage="living-room-furniture" alt=""/>
-      <caption webpage="mobelteile-und-komponenten" alt=""/>
-      <caption webpage="mobelteile-und-komponenten" alt=""/>
-      <caption webpage="beds-commodes" alt=""/>
-      <caption webpage="beds-commodes" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
-      <caption webpage="produzieren" alt=""/>
-      <caption webpage="produzieren" alt=""/>
-      <caption webpage="uber-uns" alt=""/>
-      <caption webpage="uber-uns" alt=""/>
-      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
-      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
-      <caption webpage="tische-und-stuhle" alt=""/>
-      <caption webpage="tische-und-stuhle" alt=""/>
-      <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
-      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="dienstleistungen-und-kontakte" alt=""/>
       <caption webpage="dienstleistungen-und-kontakte" alt=""/>
-      <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
-      <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="coffins" alt=""/>
       <caption webpage="coffins" alt=""/>
-      <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
-      <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
+      <caption webpage="doors-and-other-products" alt=""/>
+      <caption webpage="doors-and-other-products" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
       <caption webpage="kindermobel" alt=""/>
       <caption webpage="kindermobel" alt=""/>
-      <caption webpage="production" alt=""/>
-      <caption webpage="production" alt=""/>
+      <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
+      <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
+      <caption webpage="garden-furniture" alt=""/>
+      <caption webpage="garden-furniture" alt=""/>
+      <caption webpage="turen-und-andere-artikel" alt=""/>
+      <caption webpage="turen-und-andere-artikel" alt=""/>
+      <caption webpage="living-room-furniture" alt=""/>
+      <caption webpage="living-room-furniture" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
+      <caption webpage="mobelteile-und-komponenten" alt=""/>
+      <caption webpage="mobelteile-und-komponenten" alt=""/>
+      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
+      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
+      <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
+      <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
+      <caption webpage="produzieren" alt=""/>
+      <caption webpage="produzieren" alt=""/>
       <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="pakalpojumi-un-kontakti" alt=""/>
       <caption webpage="pakalpojumi-un-kontakti" alt=""/>
-      <caption webpage="turen-und-andere-artikel" alt=""/>
-      <caption webpage="turen-und-andere-artikel" alt=""/>
-      <caption webpage="services-and-contacts" alt=""/>
-      <caption webpage="services-and-contacts" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
-      <caption webpage="childrens-furniture" alt=""/>
-      <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="beds-commodes" alt=""/>
       <caption webpage="bernu-mebeles" alt=""/>
       <caption webpage="bernu-mebeles" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
+      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
+      <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
+      <caption webpage="production" alt=""/>
+      <caption webpage="production" alt=""/>
+      <caption webpage="galdi-un-kresli" alt=""/>
+      <caption webpage="galdi-un-kresli" alt=""/>
+      <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="produkcija" alt=""/>
+      <caption webpage="produkcija" alt=""/>
+      <caption webpage="sarge" alt=""/>
+      <caption webpage="sarge" alt=""/>
+      <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="furniture-components" alt=""/>
       <caption webpage="furniture-components" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="services-and-contacts" alt=""/>
+      <caption webpage="services-and-contacts" alt=""/>
+      <caption webpage="uber-uns" alt=""/>
+      <caption webpage="uber-uns" alt=""/>
     </file>
     <file name="1 main image.jpg" crc="461167881" seo="true" ref="index:about-us:uber-uns">
       <caption webpage="index" alt=""/>
@@ -505,7 +505,7 @@
     <file name="u36519_2x.png" crc="4004361178" ref="pakalpojumi-un-kontakti"/>
     <file name="u48054.png" crc="4244312241" ref="pakalpojumi-un-kontakti"/>
     <file name="u48054_2x.png" crc="42815545" ref="pakalpojumi-un-kontakti"/>
-    <file name="google maps-crop-u36704.jpg" crc="30437678" seo="true" ref="pakalpojumi-un-kontakti">
+    <file name="google maps-crop-u36704.jpg" crc="493045012" seo="true" ref="pakalpojumi-un-kontakti">
       <caption webpage="pakalpojumi-un-kontakti" alt=""/>
     </file>
     <file name="google maps-crop-u36704_2x.jpg" crc="4265987097" seo="true" ref="pakalpojumi-un-kontakti">
@@ -563,64 +563,64 @@
     <file name="u40742.png" crc="4244312241" ref="bernu-mebeles"/>
     <file name="u40742_2x.png" crc="42815545" ref="bernu-mebeles"/>
     <file name="thumbnail324228034-0dbca5be-02fa-4c61-90ca-04ee54aec7bc_400-crop-u58720_2x3.jpg" crc="4106870090" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnail324228034-0dbca5be-02fa-4c61-90ca-04ee54aec7bc_400-crop-u58720_2x3_2x.jpg" crc="289769501" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnail324394494-8a789df3-6a08-4dfc-916c-1ac7a04b05c1_1200243x243_2x.jpg" crc="4099875249" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnail324394494-8a789df3-6a08-4dfc-916c-1ac7a04b05c1_1200243x243_2x_2x.jpg" crc="29556460" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnailimg_20200715_095406-crop-u168845_2x3.jpg" crc="3900912088" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnailimg_20200715_095406-crop-u168845_2x3_2x.jpg" crc="4002928510" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnailimg_20200715_095415-crop-u87981_2x3.jpg" crc="4189074110" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnailimg_20200715_095415-crop-u87981_2x3_2x.jpg" crc="409231524" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnailjully friends741x556_2x.jpg" crc="3820296954" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnailjully friends741x556_2x_2x.jpg" crc="4266230501" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnailsolvita teenager kpl-gigapixel-standard-scale-4_00x812x513_2x.jpg" crc="4147332321" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnailsolvita teenager kpl-gigapixel-standard-scale-4_00x812x513_2x_2x.jpg" crc="193350869" seo="true" ref="bernu-mebeles:childrens-furniture:kindermobel">
-      <caption webpage="bernu-mebeles" alt=""/>
-      <caption webpage="kindermobel" alt=""/>
       <caption webpage="childrens-furniture" alt=""/>
+      <caption webpage="kindermobel" alt=""/>
+      <caption webpage="bernu-mebeles" alt=""/>
     </file>
     <file name="thumbnail324228034-0dbca5be-02fa-4c61-90ca-04ee54aec7bc_400-crop-u58720_2x3130x90.jpg" crc="4056970176" seo="true" ref="bernu-mebeles">
       <caption webpage="bernu-mebeles" alt=""/>
@@ -959,63 +959,63 @@
     <file name="u41932_2x.png" crc="42815545" ref="galdi-un-kresli"/>
     <file name="thumbnail3e17484846e2d2d535a8ca8f962299c8_2x.jpg" crc="3934882315" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnail3e17484846e2d2d535a8ca8f962299c8_2x_2x.jpg" crc="3973217939" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnail441.jpg" crc="3849844190" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnail441_2x.jpg" crc="4222083522" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnail920e4566389e92d04618fe207ea61c7b_2x.jpg" crc="4159541908" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnail920e4566389e92d04618fe207ea61c7b_2x_2x.jpg" crc="530614069" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnail256045a4c59957d1fcdbb95519e4df4c-crop-u92614_2x.jpg" crc="132198043" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnail256045a4c59957d1fcdbb95519e4df4c-crop-u92614_2x_2x.jpg" crc="134673931" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnail324126917-4946e18f-8830-434d-ae58-7a0f48625716_1200_2x-crop-u92766_2x.jpg" crc="3987494418" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnail324126917-4946e18f-8830-434d-ae58-7a0f48625716_1200_2x-crop-u92766_2x_2x.jpg" crc="4275613158" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnailtabouret natural 2781x586_2x.jpg" crc="4264441585" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnailtabouret natural 2781x586_2x_2x.jpg" crc="3867741371" seo="true" ref="galdi-un-kresli:tables-and-chairs:tische-und-stuhle">
       <caption webpage="galdi-un-kresli" alt=""/>
-      <caption webpage="tables-and-chairs" alt=""/>
       <caption webpage="tische-und-stuhle" alt=""/>
+      <caption webpage="tables-and-chairs" alt=""/>
     </file>
     <file name="thumbnail3e17484846e2d2d535a8ca8f962299c8_2x130x90.jpg" crc="3936558581" seo="true" ref="galdi-un-kresli">
       <caption webpage="galdi-un-kresli" alt=""/>
@@ -1350,33 +1350,33 @@
     <file name="u42098_2x.png" crc="42815545" ref="dzivojamas-istabas-mebeles"/>
     <file name="thumbnail324289846-93cb5aca-83cb-4ba7-8e80-46cd4eeae32e_1200-gigapixel-standard-scale-4_00x781x624_2x.jpg" crc="4171152781" seo="true" ref="dzivojamas-istabas-mebeles:living-room-furniture:mobel-fur-das-wohnzimmer">
       <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
-      <caption webpage="living-room-furniture" alt=""/>
       <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
+      <caption webpage="living-room-furniture" alt=""/>
     </file>
     <file name="thumbnail324289846-93cb5aca-83cb-4ba7-8e80-46cd4eeae32e_1200-gigapixel-standard-scale-4_00x781x624_2x_2x.jpg" crc="4090100961" seo="true" ref="dzivojamas-istabas-mebeles:living-room-furniture:mobel-fur-das-wohnzimmer">
       <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
-      <caption webpage="living-room-furniture" alt=""/>
       <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
+      <caption webpage="living-room-furniture" alt=""/>
     </file>
     <file name="thumbnailjauniešu koridors-gigapixel-standard-scale-4_00x_2x.jpg" crc="4133009422" seo="true" ref="dzivojamas-istabas-mebeles:living-room-furniture:mobel-fur-das-wohnzimmer">
       <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
-      <caption webpage="living-room-furniture" alt=""/>
       <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
+      <caption webpage="living-room-furniture" alt=""/>
     </file>
     <file name="thumbnailjauniešu koridors-gigapixel-standard-scale-4_00x_2x_2x.jpg" crc="351408606" seo="true" ref="dzivojamas-istabas-mebeles:living-room-furniture:mobel-fur-das-wohnzimmer">
       <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
-      <caption webpage="living-room-furniture" alt=""/>
       <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
+      <caption webpage="living-room-furniture" alt=""/>
     </file>
     <file name="thumbnailmodul sistem-gigapixel-standard-scale-4_00x_2x.jpg" crc="3842471607" seo="true" ref="dzivojamas-istabas-mebeles:living-room-furniture:mobel-fur-das-wohnzimmer">
       <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
-      <caption webpage="living-room-furniture" alt=""/>
       <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
+      <caption webpage="living-room-furniture" alt=""/>
     </file>
     <file name="thumbnailmodul sistem-gigapixel-standard-scale-4_00x_2x_2x.jpg" crc="3881339437" seo="true" ref="dzivojamas-istabas-mebeles:living-room-furniture:mobel-fur-das-wohnzimmer">
       <caption webpage="mobel-fur-das-wohnzimmer" alt=""/>
-      <caption webpage="living-room-furniture" alt=""/>
       <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
+      <caption webpage="living-room-furniture" alt=""/>
     </file>
     <file name="thumbnail324289846-93cb5aca-83cb-4ba7-8e80-46cd4eeae32e_1200-gigapixel-standard-scale-4_00x781x624_2x120x96.jpg" crc="4157675586" seo="true" ref="dzivojamas-istabas-mebeles">
       <caption webpage="dzivojamas-istabas-mebeles" alt=""/>
@@ -1548,64 +1548,64 @@
     <file name="u42517.png" crc="4244312241" ref="gultas-kumodes"/>
     <file name="u42517_2x.png" crc="42815545" ref="gultas-kumodes"/>
     <file name="thumbnaildaiga kumode_2x_2x.jpg" crc="3775311802" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnaildaiga kumode_2x_2x_2x.jpg" crc="4285535791" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnailgulta anda_2x.jpg" crc="4016550829" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnailgulta anda_2x_2x.jpg" crc="3870253142" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnailgulta bella_2x.jpg" crc="3998804395" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnailgulta bella_2x_2x.jpg" crc="3877978355" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnailgulta inga_2x.jpg" crc="281325996" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnailgulta inga_2x_2x.jpg" crc="146635167" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnailgultaloreta2-crop-u94133_2x.jpg" crc="4294704987" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnailgultaloreta2-crop-u94133_2x_2x.jpg" crc="4184465759" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnailgultaloreta-crop-u93981_2x.jpg" crc="37244219" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnailgultaloreta-crop-u93981_2x_2x.jpg" crc="4224758327" seo="true" ref="gultas-kumodes:beds-commodes:nachttisch-kommoden">
-      <caption webpage="gultas-kumodes" alt=""/>
-      <caption webpage="nachttisch-kommoden" alt=""/>
       <caption webpage="beds-commodes" alt=""/>
+      <caption webpage="nachttisch-kommoden" alt=""/>
+      <caption webpage="gultas-kumodes" alt=""/>
     </file>
     <file name="thumbnaildaiga kumode_2x_2x136x90.jpg" crc="177923429" seo="true" ref="gultas-kumodes">
       <caption webpage="gultas-kumodes" alt=""/>
@@ -1943,34 +1943,34 @@
     <file name="u42824.png" crc="4244312241" ref="mebelu-detalas-un-komponenti"/>
     <file name="u42824_2x.png" crc="42815545" ref="mebelu-detalas-un-komponenti"/>
     <file name="thumbnailimg_20220211_145028_2x781x586_2x.jpg" crc="208246981" seo="true" ref="mebelu-detalas-un-komponenti:furniture-components:mobelteile-und-komponenten">
-      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
-      <caption webpage="furniture-components" alt=""/>
       <caption webpage="mobelteile-und-komponenten" alt=""/>
+      <caption webpage="furniture-components" alt=""/>
+      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
     </file>
     <file name="thumbnailimg_20220211_145028_2x781x586_2x_2x.jpg" crc="3898622823" seo="true" ref="mebelu-detalas-un-komponenti:furniture-components:mobelteile-und-komponenten">
-      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
-      <caption webpage="furniture-components" alt=""/>
       <caption webpage="mobelteile-und-komponenten" alt=""/>
+      <caption webpage="furniture-components" alt=""/>
+      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
     </file>
     <file name="thumbnailm14_no-shadow-crop-u94359_2x.jpg" crc="3851246716" seo="true" ref="mebelu-detalas-un-komponenti:furniture-components:mobelteile-und-komponenten">
-      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
-      <caption webpage="furniture-components" alt=""/>
       <caption webpage="mobelteile-und-komponenten" alt=""/>
+      <caption webpage="furniture-components" alt=""/>
+      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
     </file>
     <file name="thumbnailm14_no-shadow-crop-u94359_2x_2x.jpg" crc="3818696266" seo="true" ref="mebelu-detalas-un-komponenti:furniture-components:mobelteile-und-komponenten">
-      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
-      <caption webpage="furniture-components" alt=""/>
       <caption webpage="mobelteile-und-komponenten" alt=""/>
+      <caption webpage="furniture-components" alt=""/>
+      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
     </file>
     <file name="thumbnailskersli_2x.jpg" crc="3875092835" seo="true" ref="mebelu-detalas-un-komponenti:furniture-components:mobelteile-und-komponenten">
-      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
-      <caption webpage="furniture-components" alt=""/>
       <caption webpage="mobelteile-und-komponenten" alt=""/>
+      <caption webpage="furniture-components" alt=""/>
+      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
     </file>
     <file name="thumbnailskersli_2x_2x.jpg" crc="4190763645" seo="true" ref="mebelu-detalas-un-komponenti:furniture-components:mobelteile-und-komponenten">
-      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
-      <caption webpage="furniture-components" alt=""/>
       <caption webpage="mobelteile-und-komponenten" alt=""/>
+      <caption webpage="furniture-components" alt=""/>
+      <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
     </file>
     <file name="thumbnailimg_20220211_145028_2x781x586_2x121x90.jpg" crc="4126808669" seo="true" ref="mebelu-detalas-un-komponenti">
       <caption webpage="mebelu-detalas-un-komponenti" alt=""/>
@@ -2142,134 +2142,134 @@
     <file name="u42989.png" crc="4244312241" ref="saunas-un-saunas-izstradajumi"/>
     <file name="u42989_2x.png" crc="42815545" ref="saunas-un-saunas-izstradajumi"/>
     <file name="thumbnail20180125_084756-crop-u64736_2x2.jpg" crc="361428192" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnail20180125_084756-crop-u64736_2x2_2x.jpg" crc="189984001" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnail20180130_082234-crop-u94817_2x2.jpg" crc="3838440256" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnail20180130_082234-crop-u94817_2x2_2x.jpg" crc="422552173" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailimag0339844x475_2x.jpg" crc="4118608718" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailimag0339844x475_2x_2x.jpg" crc="137512134" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailimg_20220208_110010_2x781x586_2x.jpg" crc="151253947" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailimg_20220208_110010_2x781x586_2x_2x.jpg" crc="4186972257" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailimg_20220919_085026_2x781x586_2x.jpg" crc="271587988" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailimg_20220919_085026_2x781x586_2x_2x.jpg" crc="4044281178" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailimg_20220919_085125_2x781x586_2x.jpg" crc="4290243957" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailimg_20220919_085125_2x781x586_2x_2x.jpg" crc="495764695" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailjakkara 2844x475_2x.jpg" crc="4072387940" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailjakkara 2844x475_2x_2x.jpg" crc="4047464087" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailkiuaskaari_2x781x586_2x.jpg" crc="3978971776" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailkiuaskaari_2x781x586_2x_2x.jpg" crc="392443580" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnaillld-crop-u96033_2x.jpg" crc="4242786113" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnaillld-crop-u96033_2x_2x.jpg" crc="4268935431" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailm4_no-shadow-crop-u3916_2x781x585_2x.jpg" crc="4081520659" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailm4_no-shadow-crop-u3916_2x781x585_2x_2x.jpg" crc="349538751" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailm12_no-shadow-crop-u3936_2x781x585_2x.jpg" crc="471492104" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailm12_no-shadow-crop-u3936_2x781x585_2x_2x.jpg" crc="117788467" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailpuolipyфreд ulkokaari 20x35 lдmpфkдsitelty haapa_2x781x586_2x.jpg" crc="242700837" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailpuolipyфreд ulkokaari 20x35 lдmpфkдsitelty haapa_2x781x586_2x_2x.jpg" crc="497755287" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailsisдkaari puolipyфreд 43x90tervaleppд781x603_2x.jpg" crc="3782732787" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnailsisдkaari puolipyфreд 43x90tervaleppд781x603_2x_2x.jpg" crc="481072389" seo="true" ref="saunas-un-saunas-izstradajumi:saunas-and-its-products:saunen-und-ihre-produkte">
-      <caption webpage="saunen-und-ihre-produkte" alt=""/>
-      <caption webpage="saunas-and-its-products" alt=""/>
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
+      <caption webpage="saunas-and-its-products" alt=""/>
+      <caption webpage="saunen-und-ihre-produkte" alt=""/>
     </file>
     <file name="thumbnail20180125_084756-crop-u64736_2x2137x90.jpg" crc="4083450286" seo="true" ref="saunas-un-saunas-izstradajumi">
       <caption webpage="saunas-un-saunas-izstradajumi" alt=""/>
@@ -2949,24 +2949,24 @@
     <file name="u43268.png" crc="4244312241" ref="durvis-un-citi-galdniecibas-izstradajumi"/>
     <file name="u43268_2x.png" crc="42815545" ref="durvis-un-citi-galdniecibas-izstradajumi"/>
     <file name="thumbnaillaivanikkuna ovi-crop-u65880_2x.jpg" crc="3952812578" seo="true" ref="durvis-un-citi-galdniecibas-izstradajumi:doors-and-other-products:turen-und-andere-artikel">
-      <caption webpage="doors-and-other-products" alt=""/>
-      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
       <caption webpage="turen-und-andere-artikel" alt=""/>
+      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
+      <caption webpage="doors-and-other-products" alt=""/>
     </file>
     <file name="thumbnaillaivanikkuna ovi-crop-u65880_2x_2x.jpg" crc="383737744" seo="true" ref="durvis-un-citi-galdniecibas-izstradajumi:doors-and-other-products:turen-und-andere-artikel">
-      <caption webpage="doors-and-other-products" alt=""/>
-      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
       <caption webpage="turen-und-andere-artikel" alt=""/>
+      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
+      <caption webpage="doors-and-other-products" alt=""/>
     </file>
     <file name="thumbnails-ovi-crop-u96901_2x.jpg" crc="142682088" seo="true" ref="durvis-un-citi-galdniecibas-izstradajumi:doors-and-other-products:turen-und-andere-artikel">
-      <caption webpage="doors-and-other-products" alt=""/>
-      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
       <caption webpage="turen-und-andere-artikel" alt=""/>
+      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
+      <caption webpage="doors-and-other-products" alt=""/>
     </file>
     <file name="thumbnails-ovi-crop-u96901_2x_2x.jpg" crc="4072927590" seo="true" ref="durvis-un-citi-galdniecibas-izstradajumi:doors-and-other-products:turen-und-andere-artikel">
-      <caption webpage="doors-and-other-products" alt=""/>
-      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
       <caption webpage="turen-und-andere-artikel" alt=""/>
+      <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
+      <caption webpage="doors-and-other-products" alt=""/>
     </file>
     <file name="thumbnaillaivanikkuna ovi-crop-u65880_2x120x95.jpg" crc="469436256" seo="true" ref="durvis-un-citi-galdniecibas-izstradajumi">
       <caption webpage="durvis-un-citi-galdniecibas-izstradajumi" alt=""/>
@@ -3088,44 +3088,44 @@
     <file name="u43835.png" crc="4244312241" ref="zarki"/>
     <file name="u43835_2x.png" crc="42815545" ref="zarki"/>
     <file name="thumbnaillāde815x475_2x.jpg" crc="328414135" seo="true" ref="zarki:coffins:sarge">
+      <caption webpage="coffins" alt=""/>
       <caption webpage="zarki" alt=""/>
       <caption webpage="sarge" alt=""/>
-      <caption webpage="coffins" alt=""/>
     </file>
     <file name="thumbnaillāde815x475_2x_2x.jpg" crc="3876558325" seo="true" ref="zarki:coffins:sarge">
+      <caption webpage="coffins" alt=""/>
       <caption webpage="zarki" alt=""/>
       <caption webpage="sarge" alt=""/>
-      <caption webpage="coffins" alt=""/>
     </file>
     <file name="thumbnailzarki 2829x513_2x.jpg" crc="3901687147" seo="true" ref="zarki:coffins:sarge">
+      <caption webpage="coffins" alt=""/>
       <caption webpage="zarki" alt=""/>
       <caption webpage="sarge" alt=""/>
-      <caption webpage="coffins" alt=""/>
     </file>
     <file name="thumbnailzarki 2829x513_2x_2x.jpg" crc="3947252623" seo="true" ref="zarki:coffins:sarge">
+      <caption webpage="coffins" alt=""/>
       <caption webpage="zarki" alt=""/>
       <caption webpage="sarge" alt=""/>
-      <caption webpage="coffins" alt=""/>
     </file>
     <file name="thumbnailzarks osis781x631_2x.jpg" crc="4200535665" seo="true" ref="zarki:coffins:sarge">
+      <caption webpage="coffins" alt=""/>
       <caption webpage="zarki" alt=""/>
       <caption webpage="sarge" alt=""/>
-      <caption webpage="coffins" alt=""/>
     </file>
     <file name="thumbnailzarks osis781x631_2x_2x.jpg" crc="3954773817" seo="true" ref="zarki:coffins:sarge">
+      <caption webpage="coffins" alt=""/>
       <caption webpage="zarki" alt=""/>
       <caption webpage="sarge" alt=""/>
-      <caption webpage="coffins" alt=""/>
     </file>
     <file name="thumbnailzarks priede-crop-u98155_2x2.jpg" crc="3816169222" seo="true" ref="zarki:coffins:sarge">
+      <caption webpage="coffins" alt=""/>
       <caption webpage="zarki" alt=""/>
       <caption webpage="sarge" alt=""/>
-      <caption webpage="coffins" alt=""/>
     </file>
     <file name="thumbnailzarks priede-crop-u98155_2x2_2x.jpg" crc="45964896" seo="true" ref="zarki:coffins:sarge">
+      <caption webpage="coffins" alt=""/>
       <caption webpage="zarki" alt=""/>
       <caption webpage="sarge" alt=""/>
-      <caption webpage="coffins" alt=""/>
     </file>
     <file name="thumbnaillāde815x475_2x-crop-u68930.jpg" crc="4048613720" seo="true" ref="zarki">
       <caption webpage="zarki" alt=""/>
@@ -3352,53 +3352,53 @@
     <file name="u44004_2x.png" crc="42815545" ref="darza-mebeles"/>
     <file name="thumbnail20200727_123710_2x_2x.jpg" crc="512275274" seo="true" ref="darza-mebeles:garden-furniture:gartenmobel">
       <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
       <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
     </file>
     <file name="thumbnail20200727_123710_2x_2x_2x.jpg" crc="4160069353" seo="true" ref="darza-mebeles:garden-furniture:gartenmobel">
       <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
       <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
     </file>
     <file name="thumbnail20220613_1717441781x629_2x.jpg" crc="278667660" seo="true" ref="darza-mebeles:garden-furniture:gartenmobel">
       <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
       <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
     </file>
     <file name="thumbnail20220613_1717441781x629_2x_2x.jpg" crc="4012895120" seo="true" ref="darza-mebeles:garden-furniture:gartenmobel">
       <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
       <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
     </file>
     <file name="thumbnailm3_no-shadow-crop-u167484_2x2.jpg" crc="3863492089" seo="true" ref="darza-mebeles:garden-furniture:gartenmobel">
       <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
       <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
     </file>
     <file name="thumbnailm3_no-shadow-crop-u167484_2x2_2x.jpg" crc="4126182976" seo="true" ref="darza-mebeles:garden-furniture:gartenmobel">
       <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
       <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
     </file>
     <file name="thumbnailm11_no-shadow-crop-u3189_2x781x585_2x.jpg" crc="330050960" seo="true" ref="darza-mebeles:garden-furniture:gartenmobel">
       <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
       <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
     </file>
     <file name="thumbnailm11_no-shadow-crop-u3189_2x781x585_2x_2x.jpg" crc="3854848736" seo="true" ref="darza-mebeles:garden-furniture:gartenmobel">
       <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
       <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
     </file>
     <file name="thumbnailpu_2x_2x.jpg" crc="389849296" seo="true" ref="darza-mebeles:garden-furniture:gartenmobel">
       <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
       <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
     </file>
     <file name="thumbnailpu_2x_2x_2x.jpg" crc="3984617308" seo="true" ref="darza-mebeles:garden-furniture:gartenmobel">
       <caption webpage="garden-furniture" alt=""/>
-      <caption webpage="gartenmobel" alt=""/>
       <caption webpage="darza-mebeles" alt=""/>
+      <caption webpage="gartenmobel" alt=""/>
     </file>
     <file name="thumbnail20200727_123710_2x_2x-crop-u69639.jpg" crc="464619359" seo="true" ref="darza-mebeles">
       <caption webpage="darza-mebeles" alt=""/>
@@ -5098,11 +5098,11 @@
   </folder>
   <file name="index.html" crc="4075864904" seo="true" mt="1725475040981" redirect="true"/>
   <file name="produkcija.html" crc="4215128138" seo="true" mt="1725475090393" redirect="true"/>
-  <file name="pakalpojumi-un-kontakti.html" crc="3916908166" seo="true" mt="1725475040981" redirect="true"/>
-  <file name="bernu-mebeles.html" crc="154205703" seo="true" mt="1725558289645" redirect="true"/>
-  <file name="galdi-un-kresli.html" crc="305582365" seo="true" mt="1725558314448" redirect="true"/>
+  <file name="pakalpojumi-un-kontakti.html" crc="3910404225" seo="true" mt="1725475040981" redirect="true"/>
+  <file name="bernu-mebeles.html" crc="154205703" seo="true" mt="1725560810960" redirect="true"/>
+  <file name="galdi-un-kresli.html" crc="52338343" seo="true" mt="1725560799193" redirect="true"/>
   <file name="dzivojamas-istabas-mebeles.html" crc="460670824" seo="true" mt="1725558430974" redirect="true"/>
-  <file name="gultas-kumodes.html" crc="61086013" seo="true" mt="1725558414600" redirect="true"/>
+  <file name="gultas-kumodes.html" crc="61086013" seo="true" mt="1725560831698" redirect="true"/>
   <file name="mebelu-detalas-un-komponenti.html" crc="177371528" seo="true" mt="1725558397428" redirect="true"/>
   <file name="saunas-un-saunas-izstradajumi.html" crc="400260183" seo="true" mt="1725558480642" redirect="true"/>
   <file name="durvis-un-citi-galdniecibas-izstradajumi.html" crc="3957468221" seo="true" mt="1725558503941" redirect="true"/>
